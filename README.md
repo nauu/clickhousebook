@@ -7,5 +7,5 @@ ClickHouse原理解析与开发实战
 
 
 *线上鲜读连载* <p>
-![线上鲜读连载](https://github.com/nauu/clickhousebook/ImageCache/raw/master/imgs/xiandu.JPG)  
+![线上鲜读连载](https://github.com/nauu/clickhousebook/raw/master/imgs/xiandu.JPG)  
 
