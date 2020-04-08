@@ -1,11 +1,7 @@
-ClickHouse原理解析与开发实战
+ClickHouse原理解析与应用实践
 ===
 
 
-本书正在写作中,欢迎大家在此交流。我会定期将书中的代码提交更新。
-
-
-
-*线上鲜读连载* <p>
-![线上鲜读连载](https://github.com/nauu/clickhousebook/raw/master/imgs/xiandu.JPG)  
+欢迎大家关注我的公众号 chcave
+![公众号](https://github.com/nauu/clickhousebook/raw/master/imgs/official.jpg)  
 
