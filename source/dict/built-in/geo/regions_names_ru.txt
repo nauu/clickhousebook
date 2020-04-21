@@ -1,0 +1,199 @@
+1000018	Salta
+1000021	Avellaneda
+1000024	Bahia Blanca
+1000025	Balcarce
+1000027	Brandsen
+1000028	Campana
+1000029	Chacabuco
+1000030	Colon
+1000031	Del Viso
+1000035	Isidro Casanova
+1000036	Junin
+1000037	La Plata
+1000039	Lomas de Zamora
+1000040	Luis Guillon
+1000041	Lujan
+1000042	Mar del Plata
+1000044	Moron
+1000045	Olavarria
+1000047	Pergamino
+1000050	Pinamar
+1000053	Quilmes
+1000058	San Antonio de Padua
+1000059	San Fernando
+1000060	San Isidro
+1000062	San Nicolas de los Arroyos
+1000063	San Pedro
+1000065	Tandil
+1000066	Tortuguitas
+1000067	Trenque Lauquen
+1000069	Vicente Lopez
+1000070	Villa Gesell
+1000072	Zarate
+1000073	Buenos Aires
+1000075	Concepcion del Uruguay
+1000077	Gualeguaychu
+1000078	Parana
+1000080	La Rioja
+1000081	Santiago del Estero
+1000082	Resistencia
+1000083	Roque Saenz Pena
+1000085	San Juan
+1000086	Catamarca
+1000088	General Pico
+1000089	Santa Rosa
+1000092	Mendoza
+1000094	San Martin
+1000095	San Rafael
+1000096	Posadas
+1000097	Formosa
+1000099	Neuquen
+1000100	San Martin de los Andes
+1000104	San Carlos de Bariloche
+1000105	Viedma
+1000108	Rafaela
+1000109	Rosario
+1000112	Santa Fe
+1000114	Venado Tuerto
+1000115	Villa Constitucion
+1000116	San Miguel de Tucuman
+1000117	Comodoro Rivadavia
+1000119	Puerto Madryn
+1000121	Rio Grande
+1000122	Ushuaia
+1000123	Corrientes
+1000126	Cordoba
+1000128	Rio Cuarto
+1000129	San Francisco
+1000130	Villa Maria
+1000133	Jujuy
+1000134	Caleta Olivia
+1000135	Rio Gallegos
+1028783	San Luis
+20008	Salta Province
+20009	Buenos Aires Province
+20010	Buenos Aires
+20011	Entre Rios
+20012	La Rioja Province
+20013	Chaco Province
+20014	San Juan Province
+20015	Catamarca Province
+20016	La Pampa
+20017	Mendoza Province
+20018	Misiones Province
+20019	Neuquen
+20020	Rio Negro
+20021	Santa Fe Province
+20022	Tucuman
+20023	Chubut Province
+20024	Tierra del Fuego Province
+20025	Corrientes
+20026	Cordoba
+20027	Jujuy
+20028	Santa Cruz Province
+2032	Argentina
+21297	San Luis Province
+21298	Santiago del Estero Province
+21299	Formosa Province
+9040998	Villa Carlos Paz
+9040999	Obera
+9041000	Necochea
+9041001	Tres Arroyos
+9041002	Mar de Ajo
+9041003	Florencio Varela
+9041004	Berazategui
+9041005	Bernal
+9041006	Wilde
+9041007	Lanus Este
+9041008	Villa Dominico
+9041009	Sarandi
+9041010	Belen de Escobar
+9041011	Los Cardales
+9041012	Mercedes
+9041013	Moreno
+9041014	Merlo
+9041015	Jose C. Paz
+9041016	Del Viso
+9041017	Pilar Centro
+9041018	Benavidez
+9041019	Grand Bourg
+9041020	Los Polvorines
+9041021	El Talar
+9041022	General Pacheco
+9041023	Ricardo Rojas
+9041024	Tigre
+9041025	Victoria
+9041026	Beccar
+9041027	Martinez
+9041028	Villa Adelina
+9041029	Carapachay
+9041030	Munro
+9041031	Olivos
+9041032	Florida
+9041033	Villa Maipu
+9041034	Villa Martelli
+9041035	Florida Oeste
+9041036	San Andres
+9041037	General San Martin Partido
+9041038	Santos Lugares
+9041039	Villa Lynch
+9041040	El Palomar
+9041041	Caseros
+9041042	Hurlingham
+9041043	Martin Coronado
+9041044	Villa Bosch
+9041045	Villa Ballester
+9041046	Jose Leon Suarez
+9041047	Boulogne
+9041048	Don Torcuato
+9041049	San Miguel
+9041050	Bella Vista
+9041051	Castelar
+9041052	Ituzaingo
+9041053	Gregorio de Laferrere
+9041054	San Justo
+9041055	Haedo
+9041056	Ramos Mejia
+9041057	Ciudadela
+9041058	Lomas del Mirador
+9041059	La Tablada
+9041060	Villa Fiorito
+9041061	Gerli
+9041062	Lanus Oeste
+9041063	Remedios de Escalada
+9041064	Tapiales
+9041065	Banfield
+9041066	Temperley
+9041067	Adrogue
+9041068	Llavallol
+9041069	Monte Grande
+9041070	Burzaco
+9041071	Marcos Paz
+9041072	Chivilcoy
+9041073	Bragado
+9041074	Lincoln
+9041075	Marcos Juarez
+9041076	Canada de Gomez
+9041077	Rio Tercero
+9041078	Villa Mercedes
+9041079	Cipolletti
+9041080	Cutral Co
+9041081	El Calafate
+9047581	Canuelas
+9047582	Capilla del Senor
+9047583	Casilda
+9047584	Dolores
+9047585	Esperanza
+9047586	Galvez
+9047587	Justiniano Posse
+9047588	Lobos
+9047589	Oncativo
+9047590	San Andres de Giles
+9047591	San Antonio de Areco
+9047592	San Clemente del Tuyu
+9047593	Villaguay
+9047594	Virrey del Pino
+9070457	La Boca
+9070458	Belgrano
+9070459	Monserrat
+9070460	Balvanera
