@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<dictionaries>
+    <dictionary>
+        <name>test_complex_key_cache_dict</name>
+		
+		<source>
+    		<executable>
+        		<command>cat /chbase/data/dictionaries/organization.csv</command>
+        		<format>CSV</format>
+    		</executable>
+		</source>
+        
+        <layout>
+            <complex_key_cache>
+            	<size_in_cells>10000</size_in_cells>
+            </complex_key_cache>
+        </layout>
+        
+        <structure>
+           <key>
+        		<attribute>
+            		<name>id</name>
+            		<type>UInt64</type>
+       			</attribute>
+        		<attribute>
+            		<name>code</name>
+            		<type>String</type>
+        		</attribute>
+     
+   			</key>
+         
+            <attribute>
+                <name>name</name>
+                <type>String</type>
+                <null_value></null_value>
+            </attribute>
+        
+        </structure>
+                
+         <lifetime>
+            <min>300</min>
+            <max>360</max>
+        </lifetime>
+           
+    </dictionary>
+</dictionaries>
