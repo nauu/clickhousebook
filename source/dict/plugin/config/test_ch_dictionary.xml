@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<dictionaries>
+    <dictionary>
+        <name>test_ch_dict</name>
+        
+        <source>
+    		<clickhouse>
+        		<host>10.37.129.6</host>
+        		<port>9000</port>
+        		<user>default</user>
+        		<password></password>
+        		<db>default</db>
+        		<table>t_organization</table>
+        		<!--
+        		<where>id=10</where>
+        		-->
+        		<invalidate_query>SELECT UpdateTime FROM t_organization WHERE ID = 1</invalidate_query>
+    		</clickhouse>
+		</source>
+        
+        <layout>
+            <flat/>
+        </layout>
+        
+        <!--大小写敏感,需要与数据表字段对应-->
+        <structure>
+            <id>
+                <name>ID</name>
+            </id>
+            
+            <attribute>
+                <name>Code</name>
+                <type>String</type>
+                <null_value></null_value>
+            </attribute>
+            
+            <attribute>
+                <name>Name</name>
+                <type>String</type>
+                <null_value></null_value>
+            </attribute>
+            
+            <attribute>
+                <name>UpdateTime</name>
+                <type>DateTime</type>
+                <null_value></null_value>
+            </attribute>
+        </structure>
+                
+         <lifetime>
+            <min>300</min>
+            <max>360</max>
+        </lifetime>
+        
+    </dictionary>
+</dictionaries>
