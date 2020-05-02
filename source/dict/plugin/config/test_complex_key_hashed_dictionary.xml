@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<dictionaries>
+    <dictionary>
+    
+        <name>test_complex_key_hashed_dict</name>
+        
+        <source>
+  			<file>
+    			<path>/chbase/data/dictionaries/organization.csv</path>
+    			<format>CSV</format>
+  			</file>
+		</source>
+       
+        <layout>
+            <complex_key_hashed/>
+        </layout>
+        
+        <structure>
+        	<key>
+        		<attribute>
+            		<name>id</name>
+            		<type>UInt64</type>
+       			</attribute>
+        		<attribute>
+            		<name>code</name>
+            		<type>String</type>
+        		</attribute>
+     
+   			</key>
+         
+            <attribute>
+                <name>name</name>
+                <type>String</type>
+                <null_value></null_value>
+            </attribute>
+        </structure>
+        
+         <lifetime>
+            <min>300</min>
+            <max>360</max>
+        </lifetime>
+        
+    </dictionary>
+</dictionaries>
