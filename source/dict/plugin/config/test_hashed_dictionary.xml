@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<dictionaries>
+    <dictionary>
+        <name>test_hashed_dict</name>
+        
+        <source>
+  			<file>
+    			<path>/chbase/data/dictionaries/organization.csv</path>
+    			<format>CSV</format>
+  			</file>
+		</source>
+       
+        <layout>
+            <hashed/>
+        </layout>
+       
+        <structure>
+        	<id>
+                <name>id</name>
+            </id>
+           
+            <attribute>
+                <name>code</name>
+                <type>String</type>
+                <null_value></null_value>
+            </attribute>
+            
+            <attribute>
+                <name>name</name>
+                <type>String</type>
+                <null_value></null_value>
+            </attribute>
+        </structure>
+                
+         <lifetime>
+            <min>300</min>
+            <max>360</max>
+        </lifetime>
+        
+    </dictionary>
+</dictionaries>
