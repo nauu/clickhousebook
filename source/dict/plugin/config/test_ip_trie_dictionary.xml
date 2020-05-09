@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<dictionaries>
+    <dictionary>
+    
+        <name>test_ip_trie_dict</name>
+        
+        <source>
+  			<file>
+    			<path>/chbase/data/dictionaries/asn.csv</path>
+    			<format>CSV</format>
+  			</file>
+		</source>
+       
+        <layout>
+            <ip_trie/>
+        </layout>
+        
+        <structure>
+        	<key>
+        		<attribute>
+            		<name>prefix</name>
+            		<type>String</type>
+        		</attribute>
+     
+   			</key>
+         
+            <attribute>
+                <name>asn</name>
+                <type>String</type>
+                <null_value></null_value>
+            </attribute>
+            
+            <attribute>
+                <name>country</name>
+                <type>String</type>
+                <null_value></null_value>
+            </attribute>
+        </structure>
+        
+         <lifetime>
+            <min>300</min>
+            <max>360</max>
+        </lifetime>
+        
+    </dictionary>
+</dictionaries>
