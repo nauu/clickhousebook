@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<dictionaries>
+    <dictionary>
+        <name>test_mongodb_dict</name>
+        
+        <source>
+    		<mongodb>
+        		<host>10.37.129.2</host>
+        		<port>27017</port>
+        		<user></user>
+        		<password></password>
+        		<db>test</db>
+        		<collection>t_organization</collection>
+    		</mongodb>
+		</source>
+        
+        <layout>
+            <flat/>
+        </layout>
+        
+        <structure>
+            <id>
+                <name>id</name>
+            </id>
+            
+            <attribute>
+                <name>code</name>
+                <type>String</type>
+                <null_value></null_value>
+            </attribute>
+            
+            <attribute>
+                <name>name</name>
+                <type>String</type>
+                <null_value></null_value>
+            </attribute>
+            
+        </structure>
+                
+         <lifetime>
+            <min>300</min>
+            <max>360</max>
+        </lifetime>
+        
+    </dictionary>
+</dictionaries>
