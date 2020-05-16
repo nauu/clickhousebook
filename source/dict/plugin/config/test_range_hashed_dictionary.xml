@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<dictionaries>
+    <dictionary>
+        <name>test_range_hashed_dict</name>
+        
+        <source>
+  			<file>
+    			<path>/chbase/data/dictionaries/sales.csv</path>
+    			<format>CSV</format>
+  			</file>
+		</source>
+       
+        
+        <layout>
+            <range_hashed/>
+        </layout>
+        
+        <structure>
+            <id>
+                <name>id</name>
+            </id>
+            
+            <range_min>
+        		<name>start</name>
+   			</range_min>
+   			
+    		<range_max>
+        		<name>end</name>
+    		</range_max>
+    		
+            <attribute>
+                <name>price</name>
+                <type>Float32</type>
+                <null_value></null_value>
+            </attribute>      
+        </structure>
+                
+         <lifetime>
+            <min>300</min>
+            <max>360</max>
+        </lifetime>
+        
+    </dictionary>
+</dictionaries>
